@@ -1,0 +1,6 @@
+{
+  "name": "لوحة التحليلات التفاعلية | Business Analytics Dashboard",
+  "description": "داشبورد تفاعلي ذكي يستعرض ويحلل البيانات والشهادات والمشاريع من ملف business-data مع إمكانية التعديل والرفع والتحليل الحجمي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
